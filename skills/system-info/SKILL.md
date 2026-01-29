@@ -5,6 +5,8 @@ description: Retrieve current system resource usage (CPU, Memory, Disk).
 
 # System Info Skill
 
+> [中文](SKILL_zh-CN.md)
+
 This skill allows the agent to inspect the environment it is running in.
 
 ## Tools

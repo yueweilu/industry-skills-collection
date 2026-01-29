@@ -5,6 +5,8 @@ description: Retrieve current weather conditions for a specific city. Use when t
 
 # Weather Lookup Skill
 
+> [中文](SKILL_zh-CN.md)
+
 This skill allows you to fetch real-time weather information for any city using the `wttr.in` service.
 
 ## Tools

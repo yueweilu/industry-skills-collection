@@ -5,6 +5,8 @@ description: Retrieve real-time stock price and market data for a given ticker s
 
 # Stock Price Skill
 
+> [中文](SKILL_zh-CN.md)
+
 This skill allows you to fetch current stock market data using the Yahoo Finance API.
 
 ## Tools

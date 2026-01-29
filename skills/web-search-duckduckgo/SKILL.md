@@ -5,6 +5,8 @@ description: Perform an anonymous web search and retrieve a list of results with
 
 # Web Search (DuckDuckGo)
 
+> [中文](SKILL_zh-CN.md)
+
 This skill allows the agent to search the internet using DuckDuckGo, which requires no API key.
 
 ## Tools

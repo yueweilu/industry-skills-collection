@@ -22,6 +22,22 @@ Each skill is located in the `skills/` directory and contains a `SKILL.md` file.
 2.  **Tools**: The specific scripts (Python/Node.js) to execute.
 3.  **IO**: Expected input arguments and output JSON format.
 
+### Interactive CLI
+
+We provide a simple command-line interface to test these skills:
+
+```bash
+python main.py
+```
+
+## 📦 Dependencies
+
+You can install all dependencies for the skills at once:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 🤝 Contributing
 
 We welcome contributions! If you have built a useful tool for AI agents, please submit a PR.
