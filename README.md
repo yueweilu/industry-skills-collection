@@ -21,10 +21,38 @@ Simply browse the `skills/` directory to find the industry you are interested in
 
 ## 🤝 Contributing
 
+
+
 We welcome contributions from everyone! Whether you are an expert or a learner, your input is valuable.
+
+
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to add a new industry or update existing skills.
 
+
+
+## 🙏 Acknowledgments & References
+
+
+
+This project is inspired by and references various community resources, including:
+
+
+
+- [roadmap.sh](https://roadmap.sh) - For career path structures.
+
+- [Awesome Lists](https://github.com/sindresorhus/awesome) - For the community-driven collection model.
+
+- Various industry-specific documentation and expert blogs.
+
+
+
+If you believe a specific source should be credited, please open an issue or submit a PR.
+
+
+
 ## 📄 License
+
+
 
 This project is licensed under the MIT License.

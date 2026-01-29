@@ -25,6 +25,16 @@
 
 请参阅 [贡献指南](CONTRIBUTING_zh-CN.md) 了解如何添加新行业或更新现有技能。
 
+## 🙏 致谢与来源参考
+
+本项目深受以下社区资源的启发并参考了相关内容：
+
+- [roadmap.sh](https://roadmap.sh) - 职业路径结构参考。
+- [Awesome Lists](https://github.com/sindresorhus/awesome) - 社区驱动的合集模式参考。
+- 各行业官方文档及专家博客。
+
+如果您认为某个特定来源应该被标注，请提交 Issue 或 PR。
+
 ## 📄 许可证
 
 本项目采用 MIT 许可证。
