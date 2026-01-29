@@ -8,6 +8,12 @@ metadata: {"moltbot":{"emoji":"💬","requires":{"config":["channels.slack"]}}}
 
 > [English](SKILL.md)
 
+通过 slack 工具控制频道、消息和 Reaction。
+
+
+通过 slack 工具控制频道、消息和 Reaction。
+
+
 发送 Slack 消息和管理频道。
 
 

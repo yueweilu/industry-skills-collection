@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🎮","requires":{"bins":["gog"]},"install":[{"id
 
 > [English](SKILL.md)
 
+Google Workspace CLI (Gmail, Calendar, Drive 等)。
+
+
 与 GOG.com 游戏平台交互。
 
 

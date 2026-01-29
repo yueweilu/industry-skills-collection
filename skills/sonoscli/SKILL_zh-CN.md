@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🔊","requires":{"bins":["sonos"]},"install":[{"
 
 > [English](SKILL.md)
 
+控制 Sonos 音响 (播放、音量、分组)。
+
+
 控制 Sonos 智能音响系统。
 
 

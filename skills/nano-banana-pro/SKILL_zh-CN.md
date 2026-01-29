@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🍌","requires":{"bins":["uv"],"env":["GEMINI_AP
 
 > [English](SKILL.md)
 
+通过 Gemini 3 Pro 生成或编辑图像。
+
+
 Nano Banana Pro 开发板控制工具。
 
 

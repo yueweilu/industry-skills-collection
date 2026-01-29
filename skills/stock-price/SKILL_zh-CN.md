@@ -7,6 +7,9 @@ name: stock-price
 
 > [English](SKILL.md)
 
+获取指定股票代码的实时价格。
+
+
 获取实时股票价格。
 
 

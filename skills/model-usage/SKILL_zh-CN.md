@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"📊","os":["darwin"],"requires":{"bins":["codexb
 
 > [English](SKILL.md)
 
+统计 Codex 或 Claude 的模型使用成本。
+
+
 统计和查询 AI 模型的使用量。
 
 

@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🧿","requires":{"bins":["oracle"]},"install":[{
 
 > [English](SKILL.md)
 
+Oracle CLI 最佳实践 (Prompt 绑定、会话管理)。
+
+
 查询 Oracle 数据库或知识库。
 
 

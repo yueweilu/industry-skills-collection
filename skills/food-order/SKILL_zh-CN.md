@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🥡","requires":{"bins":["ordercli"]},"install":
 
 > [English](SKILL.md)
 
+Foodora 订餐与订单状态追踪。
+
+
 自动化订餐流程（示例）。
 
 

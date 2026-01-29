@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📰","requires":{"bins":["blogwatcher"]},"instal
 
 > [English](SKILL.md)
 
+监控博客和 RSS/Atom 源更新。
+
+
 监控博客更新和 RSS 源。
 
 

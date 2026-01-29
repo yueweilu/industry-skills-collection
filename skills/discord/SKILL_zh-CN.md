@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"🎮","requires":{"config":["channels.discord"]}}
 
 > [English](SKILL.md)
 
+通过 discord 工具控制 Discord 频道和消息。
+
+
 发送消息或管理 Discord 频道。
 
 

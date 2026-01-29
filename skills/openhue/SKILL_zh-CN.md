@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"💡","requires":{"bins":["openhue"]},"install":[
 
 > [English](SKILL.md)
 
+通过 OpenHue CLI 控制 Philips Hue 灯光。
+
+
 控制 Philips Hue 智能灯泡。
 
 

@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📋","requires":{"bins":["jq"],"env":["TRELLO_AP
 
 > [English](SKILL.md)
 
+通过 REST API 管理 Trello 看板和卡片。
+
+
 管理 Trello 看板和卡片。
 
 

@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🧾","requires":{"bins":["summarize"]},"install"
 
 > [English](SKILL.md)
 
+总结网页、播客或本地文件的内容。
+
+
 使用 AI 总结长文本或文件。
 
 

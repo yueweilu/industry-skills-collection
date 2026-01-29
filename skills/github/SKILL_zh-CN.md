@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"🐙","requires":{"bins":["gh"]},"install":[{"id"
 
 > [English](SKILL.md)
 
+使用 gh CLI 管理 GitHub Issue、PR 和 CI。
+
+
 使用 GitHub CLI 进行仓库和 Issue 管理。
 
 

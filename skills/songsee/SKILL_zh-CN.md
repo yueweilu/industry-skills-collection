@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🌊","requires":{"bins":["songsee"]},"install":[
 
 > [English](SKILL.md)
 
+从音频生成声谱图和可视化特征。
+
+
 识别或搜索歌曲信息。
 
 

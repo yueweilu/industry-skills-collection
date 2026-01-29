@@ -7,6 +7,9 @@ name: weather-lookup
 
 > [English](SKILL.md)
 
+查询特定城市的实时天气状况。
+
+
 查询天气状况。
 
 

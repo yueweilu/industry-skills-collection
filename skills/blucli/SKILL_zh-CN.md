@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🫐","requires":{"bins":["blu"]},"install":[{"id
 
 > [English](SKILL.md)
 
+BluOS 音响系统命令行控制工具。
+
+
 通过命令行控制蓝牙设备。
 
 

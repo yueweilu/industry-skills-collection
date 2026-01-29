@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🖼️","requires":{"bins":["python3"],"env":["O
 
 > [English](SKILL.md)
 
+批量生成 DALL-E 图像并生成画廊。
+
+
 使用 DALL-E 生成图像。
 
 

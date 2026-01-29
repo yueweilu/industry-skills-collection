@@ -2,6 +2,9 @@
 
 > [English](SKILL.md)
 
+从 PDF 文件提取文本内容。
+
+
 从 PDF 文件提取文本。
 
 

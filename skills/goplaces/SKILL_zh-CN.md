@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📍","requires":{"bins":["goplaces"],"env":["GOO
 
 > [English](SKILL.md)
 
+查询 Google Places API 获取地点详情和评论。
+
+
 Google Maps / Places API 集成。
 
 

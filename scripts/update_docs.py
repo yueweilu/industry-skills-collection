@@ -7,64 +7,64 @@ README_CN = 'README_zh-CN.md'
 
 # 完整的技能中文翻译字典
 TRANSLATIONS = {
-    '1password': '使用 1Password CLI 管理密码和凭证。',
-    'apple-notes': '读取和操作 Apple Notes（备忘录）。',
-    'apple-reminders': '管理 Apple Reminders（提醒事项）。',
-    'bear-notes': '与 Bear 笔记应用集成。',
-    'bird': '与 Linux 鸟类路由守护进程交互。',
+    '1password': '设置并使用 1Password CLI (op) 管理凭证。',
+    'apple-notes': '通过 memo CLI 管理 macOS 上的 Apple Notes。',
+    'apple-reminders': '通过 remindctl CLI 管理 macOS 上的提醒事项。',
+    'bear-notes': '通过 grizzly CLI 管理 Bear 笔记。',
+    'bird': 'X/Twitter 命令行客户端，用于阅读、搜索和发布推文。',
     'blogwatcher': '监控博客更新和 RSS 源。',
-    'blucli': '通过命令行控制蓝牙设备。',
-    'bluebubbles': '与 BlueBubbles (iMessage Android 客户端) 交互。',
-    'camsnap': '从连接的摄像头拍摄快照。',
+    'blucli': 'BluOS 音响系统命令行控制工具。',
+    'bluebubbles': 'BlueBubbles (iMessage) 插件集成与消息管理。',
+    'camsnap': '从 RTSP/ONVIF 摄像头抓取画面。',
     'canvas': '与 Canvas LMS 学习管理系统交互。',
-    'clawdhub': 'Moltbot 的技能中心集成。',
-    'coding-agent': '自主编写和修改代码的智能代理。',
-    'currency-converter': '实时货币汇率转换。',
-    'discord': '发送消息或管理 Discord 频道。',
-    'eightctl': '控制 8bitdo 手柄或其他输入设备。',
-    'food-order': '自动化订餐流程（示例）。',
-    'gemini': '调用 Google Gemini AI 模型。',
-    'gifgrep': '搜索并检索 GIF 动图。',
-    'github': '使用 GitHub CLI 进行仓库和 Issue 管理。',
+    'clawdhub': '搜索、安装和发布 ClawdHub 技能。',
+    'coding-agent': '后台运行 Codex 或 Claude Code 进行编程控制。',
+    'currency-converter': '使用实时汇率转换货币金额。',
+    'discord': '通过 discord 工具控制 Discord 频道和消息。',
+    'eightctl': '控制 Eight Sleep 智能床垫 (温度、闹钟)。',
+    'food-order': 'Foodora 订餐与订单状态追踪。',
+    'gemini': 'Gemini CLI，用于问答、总结和生成。',
+    'gifgrep': '搜索、下载和提取 GIF 动图。',
+    'github': '使用 gh CLI 管理 GitHub Issue、PR 和 CI。',
     'github-manager': 'GitHub 仓库与 Issue 管理工具。',
-    'gog': '与 GOG.com 游戏平台交互。',
-    'goplaces': 'Google Maps / Places API 集成。',
-    'himalaya': '命令行邮件客户端 (CLI email)。',
-    'imsg': '发送和接收 iMessage 信息。',
-    'local-places': '搜索附近的本地地点和服务。',
-    'mcporter': 'Minecraft 服务器管理工具。',
-    'model-usage': '统计和查询 AI 模型的使用量。',
-    'nano-banana-pro': 'Nano Banana Pro 开发板控制工具。',
-    'nano-pdf': '轻量级 PDF 阅读与处理工具。',
-    'notion': '管理 Notion 页面和数据库。',
-    'obsidian': '读取和写入 Obsidian 笔记库。',
-    'openai-image-gen': '使用 DALL-E 生成图像。',
-    'openai-whisper': '使用本地 Whisper 模型进行语音转文字。',
-    'openai-whisper-api': '使用 OpenAI Whisper API 进行转录。',
-    'openhue': '控制 Philips Hue 智能灯泡。',
-    'oracle': '查询 Oracle 数据库或知识库。',
-    'ordercli': '命令行订单管理系统。',
-    'pdf-text-extractor': '从 PDF 文件提取文本。',
-    'peekaboo': '系统监控与进程检视工具。',
-    'sag': 'Solana 验证节点管理工具。',
-    'session-logs': '记录和检索 Agent 会话日志。',
-    'sherpa-onnx-tts': '使用 Sherpa ONNX 进行本地离线语音合成。',
-    'skill-creator': '用于创建新技能的脚手架工具。',
-    'slack': '发送 Slack 消息和管理频道。',
-    'songsee': '识别或搜索歌曲信息。',
-    'sonoscli': '控制 Sonos 智能音响系统。',
-    'spotify-player': '控制 Spotify 播放与搜索歌曲。',
-    'stock-price': '获取实时股票价格。',
-    'summarize': '使用 AI 总结长文本或文件。',
-    'system-info': '获取 CPU、内存等系统信息。',
-    'things-mac': '管理 Things 3 (Mac) 待办事项。',
-    'tmux': '管理 Tmux 终端会话。',
-    'trello': '管理 Trello 看板和卡片。',
-    'video-frames': '从视频中提取帧或图像。',
-    'voice-call': '发起或管理语音通话。',
-    'wacli': 'WhatsApp 命令行客户端集成。',
-    'weather': '查询天气预报 (wttr.in)。',
-    'weather-lookup': '查询天气状况。',
+    'gog': 'Google Workspace CLI (Gmail, Calendar, Drive 等)。',
+    'goplaces': '查询 Google Places API 获取地点详情和评论。',
+    'himalaya': '命令行邮件客户端 (IMAP/SMTP) 管理邮件。',
+    'imsg': 'iMessage/SMS 命令行工具，用于列出和发送信息。',
+    'local-places': '本地代理搜索附近的地点 (Google Places)。',
+    'mcporter': '管理和调用 MCP (Model Context Protocol) 服务器。',
+    'model-usage': '统计 Codex 或 Claude 的模型使用成本。',
+    'nano-banana-pro': '通过 Gemini 3 Pro 生成或编辑图像。',
+    'nano-pdf': '使用自然语言指令编辑 PDF。',
+    'notion': 'Notion API 接口，用于管理页面和数据库。',
+    'obsidian': '通过 obsidian-cli 自动化管理 Obsidian 笔记库。',
+    'openai-image-gen': '批量生成 DALL-E 图像并生成画廊。',
+    'openai-whisper': '使用本地 Whisper CLI 进行语音转文字 (无 Key)。',
+    'openai-whisper-api': '通过 OpenAI API 进行 Whisper 语音转录。',
+    'openhue': '通过 OpenHue CLI 控制 Philips Hue 灯光。',
+    'oracle': 'Oracle CLI 最佳实践 (Prompt 绑定、会话管理)。',
+    'ordercli': '命令行查看 Foodora 历史订单和状态。',
+    'pdf-text-extractor': '从 PDF 文件提取文本内容。',
+    'peekaboo': '捕获 macOS UI 并进行自动化操作。',
+    'sag': 'ElevenLabs 文本转语音工具 (Mac 风格)。',
+    'session-logs': '搜索和分析 Agent 的历史会话日志。',
+    'sherpa-onnx-tts': '基于 Sherpa ONNX 的本地离线语音合成。',
+    'skill-creator': '创建、设计和打包新的 Agent 技能。',
+    'slack': '通过 slack 工具控制频道、消息和 Reaction。',
+    'songsee': '从音频生成声谱图和可视化特征。',
+    'sonoscli': '控制 Sonos 音响 (播放、音量、分组)。',
+    'spotify-player': '终端 Spotify 播放器与搜索工具。',
+    'stock-price': '获取指定股票代码的实时价格。',
+    'summarize': '总结网页、播客或本地文件的内容。',
+    'system-info': '获取系统资源使用情况 (CPU, 内存, 磁盘)。',
+    'things-mac': '管理 macOS 上的 Things 3 待办事项。',
+    'tmux': '远程控制 Tmux 会话，发送按键和抓取输出。',
+    'trello': '通过 REST API 管理 Trello 看板和卡片。',
+    'video-frames': '使用 ffmpeg 从视频提取帧或片段。',
+    'voice-call': '通过 Moltbot 插件发起语音通话。',
+    'wacli': 'WhatsApp 命令行工具 (搜索历史、发送消息)。',
+    'weather': '获取天气预报 (wttr.in) 无需 API Key。',
+    'weather-lookup': '查询特定城市的实时天气状况。',
     'web-search-duckduckgo': 'DuckDuckGo 匿名网络搜索。',
     'youtube-info': '获取 YouTube 视频元数据。'
 }
@@ -111,7 +111,7 @@ def process_skill(skill_name):
             cn_content = f.read()
         
         # 1. Update Frontmatter Description
-        cn_content = re.sub(r'(description:\s*)(.+)', f'\\1{desc_cn}', cn_content, count=1)
+        cn_content = re.sub(r'(description:\s*)(.+)', f'\1{desc_cn}', cn_content, count=1)
         
         # 2. Translate Common Headers
         header_map = {
@@ -123,25 +123,16 @@ def process_skill(skill_name):
             r'## Description': '## 描述',
             r'## Installation': '## 安装',
             r'## Configuration': '## 配置',
-            r'# Tools': '# 工具', # Sometimes headers are level 1
+            r'# Tools': '# 工具',
         }
         for eng, chn in header_map.items():
             cn_content = re.sub(eng, chn, cn_content)
 
         # 3. Inject Chinese Description into Body
-        # Look for the navigation block "> [English](SKILL.md)"
-        # And ensure the text immediately following it is the Chinese description
         nav_marker = "> [English](SKILL.md)"
         if nav_marker in cn_content:
-            # We construct a regex to match the Nav line and the immediate following paragraph
-            # We replace it with Nav line + \n\n + Chinese Description
-            
-            # Simple approach: Find the nav line, then check if the next non-empty line is English text
-            # Instead of complex regex, let's just force insert the Chinese description after the nav header
-            # if it's not already there.
-            
-            # Check if the description is already in the body (simple check)
-            if desc_cn not in cn_content.split('---')[-1]: # Check body only
+            # Check if the description is already in the body
+            if desc_cn not in cn_content.split('---')[-1]: 
                 cn_content = cn_content.replace(nav_marker, f"{nav_marker}\n\n{desc_cn}\n")
 
         with open(cn_path, 'w') as f:
@@ -210,7 +201,6 @@ def update_readmes():
                 if is_cn:
                     output += f"| [**{s['name']}**]({link}) | {s['desc_cn']} |\n"
                 else:
-                    # In English readme, we show both languages as requested before
                     output += f"| [**{s['name']}**]({link}) | {s['desc_en']} | {s['desc_cn']} |\n"
         return output
 

@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📝","os":["darwin"],"requires":{"bins":["memo"]
 
 > [English](SKILL.md)
 
+通过 memo CLI 管理 macOS 上的 Apple Notes。
+
+
 读取和操作 Apple Notes（备忘录）。
 
 

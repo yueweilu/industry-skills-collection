@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📄","requires":{"bins":["nano-pdf"]},"install":
 
 > [English](SKILL.md)
 
+使用自然语言指令编辑 PDF。
+
+
 轻量级 PDF 阅读与处理工具。
 
 

@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"💎","requires":{"bins":["obsidian-cli"]},"insta
 
 > [English](SKILL.md)
 
+通过 obsidian-cli 自动化管理 Obsidian 笔记库。
+
+
 读取和写入 Obsidian 笔记库。
 
 

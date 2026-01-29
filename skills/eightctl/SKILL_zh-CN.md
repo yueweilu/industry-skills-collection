@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🎛️","requires":{"bins":["eightctl"]},"instal
 
 > [English](SKILL.md)
 
+控制 Eight Sleep 智能床垫 (温度、闹钟)。
+
+
 控制 8bitdo 手柄或其他输入设备。
 
 

@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"👀","os":["darwin"],"requires":{"bins":["peekab
 
 > [English](SKILL.md)
 
+捕获 macOS UI 并进行自动化操作。
+
+
 系统监控与进程检视工具。
 
 

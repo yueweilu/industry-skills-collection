@@ -8,6 +8,12 @@ metadata: {"moltbot":{"emoji":"🧩","requires":{"anyBins":["claude","codex","op
 
 > [English](SKILL.md)
 
+后台运行 Codex 或 Claude Code 进行编程控制。
+
+
+后台运行 Codex 或 Claude Code 进行编程控制。
+
+
 自主编写和修改代码的智能代理。
 
 

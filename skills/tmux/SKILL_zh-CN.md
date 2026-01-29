@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"🧵","os":["darwin","linux"],"requires":{"bins":
 
 > [English](SKILL.md)
 
+远程控制 Tmux 会话，发送按键和抓取输出。
+
+
 管理 Tmux 终端会话。
 
 

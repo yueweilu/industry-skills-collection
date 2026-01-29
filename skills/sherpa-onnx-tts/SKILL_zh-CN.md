@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"🗣️","os":["darwin","linux","win32"],"require
 
 > [English](SKILL.md)
 
+基于 Sherpa ONNX 的本地离线语音合成。
+
+
 使用 Sherpa ONNX 进行本地离线语音合成。
 
 

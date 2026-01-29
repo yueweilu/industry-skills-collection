@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🎞️","requires":{"bins":["ffmpeg"]},"install"
 
 > [English](SKILL.md)
 
+使用 ffmpeg 从视频提取帧或片段。
+
+
 从视频中提取帧或图像。
 
 

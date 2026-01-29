@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🗣️","requires":{"bins":["sag"],"env":["ELEVE
 
 > [English](SKILL.md)
 
+ElevenLabs 文本转语音工具 (Mac 风格)。
+
+
 Solana 验证节点管理工具。
 
 

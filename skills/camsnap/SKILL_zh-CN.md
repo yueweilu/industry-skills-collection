@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📸","requires":{"bins":["camsnap"]},"install":[
 
 > [English](SKILL.md)
 
+从 RTSP/ONVIF 摄像头抓取画面。
+
+
 从连接的摄像头拍摄快照。
 
 

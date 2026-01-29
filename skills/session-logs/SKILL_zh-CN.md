@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"📜","requires":{"bins":["jq","rg"]}}}
 
 > [English](SKILL.md)
 
+搜索和分析 Agent 的历史会话日志。
+
+
 记录和检索 Agent 会话日志。
 
 

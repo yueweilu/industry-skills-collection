@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📱","requires":{"bins":["wacli"]},"install":[{"
 
 > [English](SKILL.md)
 
+WhatsApp 命令行工具 (搜索历史、发送消息)。
+
+
 WhatsApp 命令行客户端集成。
 
 

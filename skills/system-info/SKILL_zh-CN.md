@@ -7,6 +7,9 @@ name: system-info
 
 > [English](SKILL.md)
 
+获取系统资源使用情况 (CPU, 内存, 磁盘)。
+
+
 获取 CPU、内存等系统信息。
 
 

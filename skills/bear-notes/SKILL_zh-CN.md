@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🐻","os":["darwin"],"requires":{"bins":["grizzl
 
 > [English](SKILL.md)
 
+通过 grizzly CLI 管理 Bear 笔记。
+
+
 与 Bear 笔记应用集成。
 
 

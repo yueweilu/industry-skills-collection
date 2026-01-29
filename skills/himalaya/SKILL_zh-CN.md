@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📧","requires":{"bins":["himalaya"]},"install":
 
 > [English](SKILL.md)
 
+命令行邮件客户端 (IMAP/SMTP) 管理邮件。
+
+
 命令行邮件客户端 (CLI email)。
 
 

@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📨","os":["darwin"],"requires":{"bins":["imsg"]
 
 > [English](SKILL.md)
 
+iMessage/SMS 命令行工具，用于列出和发送信息。
+
+
 发送和接收 iMessage 信息。
 
 

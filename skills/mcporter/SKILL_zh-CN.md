@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📦","requires":{"bins":["mcporter"]},"install":
 
 > [English](SKILL.md)
 
+管理和调用 MCP (Model Context Protocol) 服务器。
+
+
 Minecraft 服务器管理工具。
 
 
