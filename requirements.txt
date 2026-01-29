@@ -1,3 +1,5 @@
 yfinance
 duckduckgo-search
 psutil
+PyPDF2
+yt-dlp

@@ -19,7 +19,10 @@
 | [**weather-lookup**](skills/weather-lookup/SKILL.md) | Retrieve current weather conditions for a specific city. |
 | [**stock-price**](skills/stock-price/SKILL.md) | Retrieve real-time stock price and market data. |
 | [**web-search-duckduckgo**](skills/web-search-duckduckgo/SKILL.md) | Perform anonymous web searches to find information. |
-| [**system-info**](skills/system-info/SKILL.md) | Check CPU, memory, and disk usage of the host machine. |
+| [**system-info**](skills/system-info/SKILL.md) | Check system resource usage. | 检查主机的 CPU、内存和磁盘使用情况。 |
+| [**currency-converter**](skills/currency-converter/SKILL.md) | Real-time currency conversion. | 实时汇率转换。 |
+| [**pdf-text-extractor**](skills/pdf-text-extractor/SKILL.md) | Extract text from PDF files. | 从 PDF 文件中提取文本。 |
+| [**youtube-info**](skills/youtube-info/SKILL.md) | Fetch YouTube video metadata. | 获取 YouTube 视频元数据。 |
 
 ## 🚀 How to Use
 

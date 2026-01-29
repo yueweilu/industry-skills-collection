@@ -16,6 +16,9 @@
 | [**stock-price**](skills/stock-price/SKILL_zh-CN.md) | 获取实时股票价格和市场数据。 |
 | [**web-search-duckduckgo**](skills/web-search-duckduckgo/SKILL_zh-CN.md) | 执行匿名网络搜索以查找信息。 |
 | [**system-info**](skills/system-info/SKILL_zh-CN.md) | 检查主机的 CPU、内存和磁盘使用情况。 |
+| [**currency-converter**](skills/currency-converter/SKILL_zh-CN.md) | 实时汇率转换。 |
+| [**pdf-text-extractor**](skills/pdf-text-extractor/SKILL_zh-CN.md) | 从 PDF 文件中提取文本。 |
+| [**youtube-info**](skills/youtube-info/SKILL_zh-CN.md) | 获取 YouTube 视频元数据。 |
 
 ## 🚀 如何使用
 
