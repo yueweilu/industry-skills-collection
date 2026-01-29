@@ -2,6 +2,9 @@
 
 > [English](SKILL.md)
 
+与 Canvas LMS 学习管理系统交互。
+
+
 # Canvas Skill
 
 Display HTML content on connected Moltbot nodes (Mac app, iOS, Android).
@@ -57,7 +60,7 @@ This is why localhost URLs don't work - the node receives the Tailscale hostname
 | `eval` | Execute JavaScript in the canvas |
 | `snapshot` | Capture screenshot of canvas |
 
-## Configuration
+## 配置
 
 In `~/.clawdbot/moltbot.json`:
 

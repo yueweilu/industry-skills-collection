@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📸","requires":{"bins":["camsnap"]},"install":[
 
 > [English](SKILL.md)
 
+从连接的摄像头拍摄快照。
+
+
 
 # camsnap
 

@@ -2,6 +2,9 @@
 
 > [English](SKILL.md)
 
+实时货币汇率转换。
+
+
 使用 Frankfurter API（无需 API 密钥）转换不同币种之间的金额。
 
 ## 工具

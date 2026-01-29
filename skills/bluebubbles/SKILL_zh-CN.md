@@ -7,6 +7,9 @@ name: bluebubbles
 
 > [English](SKILL.md)
 
+与 BlueBubbles (iMessage Android 客户端) 交互。
+
+
 
 # BlueBubbles plugin
 

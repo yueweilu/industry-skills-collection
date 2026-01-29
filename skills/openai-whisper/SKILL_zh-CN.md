@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🎙️","requires":{"bins":["whisper"]},"install
 
 > [English](SKILL.md)
 
+使用本地 Whisper 模型进行语音转文字。
+
+
 
 # Whisper (CLI)
 

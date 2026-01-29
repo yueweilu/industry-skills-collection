@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"💬","requires":{"config":["channels.slack"]}}}
 
 > [English](SKILL.md)
 
+发送 Slack 消息和管理频道。
+
+
 
 # Slack Actions
 

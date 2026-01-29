@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📍","requires":{"bins":["goplaces"],"env":["GOO
 
 > [English](SKILL.md)
 
+Google Maps / Places API 集成。
+
+
 
 # goplaces
 

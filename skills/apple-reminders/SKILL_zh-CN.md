@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"⏰","os":["darwin"],"requires":{"bins":["remindc
 
 > [English](SKILL.md)
 
+管理 Apple Reminders（提醒事项）。
+
+
 
 # Apple Reminders CLI (remindctl)
 

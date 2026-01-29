@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🐦","requires":{"bins":["bird"]},"install":[{"i
 
 > [English](SKILL.md)
 
+与 Linux 鸟类路由守护进程交互。
+
+
 
 # bird 🐦
 

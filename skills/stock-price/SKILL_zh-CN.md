@@ -7,6 +7,9 @@ name: stock-price
 
 > [English](SKILL.md)
 
+获取实时股票价格。
+
+
 此技能允许您使用 Yahoo Finance API 获取当前股市数据。
 
 ## 工具

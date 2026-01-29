@@ -105,18 +105,47 @@ def process_skill(skill_name):
     # Get Chinese translation
     desc_cn = TRANSLATIONS.get(skill_name, desc_en)
 
-    # Update SKILL_zh-CN.md with translated description
+    # Update SKILL_zh-CN.md with translated description and headers
     if os.path.exists(cn_path):
         with open(cn_path, 'r') as f:
             cn_content = f.read()
         
-        # Replace description line if it looks like English or old content
-        # We use a regex to find the description line in the yaml frontmatter
-        new_cn_content = re.sub(r'(description:\s*)(.+)', f'\1{desc_cn}', cn_content, count=1)
+        # 1. Update Frontmatter Description
+        cn_content = re.sub(r'(description:\s*)(.+)', f'\\1{desc_cn}', cn_content, count=1)
         
-        if new_cn_content != cn_content:
-            with open(cn_path, 'w') as f:
-                f.write(new_cn_content)
+        # 2. Translate Common Headers
+        header_map = {
+            r'## Tools': '## 工具',
+            r'## Usage': '## 用法',
+            r'## Example': '## 示例',
+            r'## Examples': '## 示例',
+            r'## Requirements': '## 要求',
+            r'## Description': '## 描述',
+            r'## Installation': '## 安装',
+            r'## Configuration': '## 配置',
+            r'# Tools': '# 工具', # Sometimes headers are level 1
+        }
+        for eng, chn in header_map.items():
+            cn_content = re.sub(eng, chn, cn_content)
+
+        # 3. Inject Chinese Description into Body
+        # Look for the navigation block "> [English](SKILL.md)"
+        # And ensure the text immediately following it is the Chinese description
+        nav_marker = "> [English](SKILL.md)"
+        if nav_marker in cn_content:
+            # We construct a regex to match the Nav line and the immediate following paragraph
+            # We replace it with Nav line + \n\n + Chinese Description
+            
+            # Simple approach: Find the nav line, then check if the next non-empty line is English text
+            # Instead of complex regex, let's just force insert the Chinese description after the nav header
+            # if it's not already there.
+            
+            # Check if the description is already in the body (simple check)
+            if desc_cn not in cn_content.split('---')[-1]: # Check body only
+                cn_content = cn_content.replace(nav_marker, f"{nav_marker}\n\n{desc_cn}\n")
+
+        with open(cn_path, 'w') as f:
+            f.write(cn_content)
 
     return {
         'name': skill_name,

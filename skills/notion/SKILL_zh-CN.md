@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📝","requires":{"env":["NOTION_API_KEY"]},"prim
 
 > [English](SKILL.md)
 
+管理 Notion 页面和数据库。
+
+
 
 # notion
 

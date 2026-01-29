@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🔊","requires":{"bins":["sonos"]},"install":[{"
 
 > [English](SKILL.md)
 
+控制 Sonos 智能音响系统。
+
+
 
 # Sonos CLI
 

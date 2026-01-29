@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"📊","os":["darwin"],"requires":{"bins":["codexb
 
 > [English](SKILL.md)
 
+统计和查询 AI 模型的使用量。
+
+
 
 # Model usage
 

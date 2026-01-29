@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"✅","os":["darwin"],"requires":{"bins":["things"
 
 > [English](SKILL.md)
 
+管理 Things 3 (Mac) 待办事项。
+
+
 
 # Things 3 CLI
 

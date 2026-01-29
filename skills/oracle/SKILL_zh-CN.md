@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🧿","requires":{"bins":["oracle"]},"install":[{
 
 > [English](SKILL.md)
 
+查询 Oracle 数据库或知识库。
+
+
 
 # oracle — best use
 

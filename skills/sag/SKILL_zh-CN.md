@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🗣️","requires":{"bins":["sag"],"env":["ELEVE
 
 > [English](SKILL.md)
 
+Solana 验证节点管理工具。
+
+
 
 # sag
 

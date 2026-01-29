@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🔐","requires":{"bins":["op"]},"install":[{"id"
 
 > [English](SKILL.md)
 
+使用 1Password CLI 管理密码和凭证。
+
+
 
 # 1Password CLI
 

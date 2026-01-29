@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🌊","requires":{"bins":["songsee"]},"install":[
 
 > [English](SKILL.md)
 
+识别或搜索歌曲信息。
+
+
 
 # songsee
 

@@ -7,6 +7,9 @@ name: weather-lookup
 
 > [English](SKILL.md)
 
+查询天气状况。
+
+
 此技能允许您使用 `wttr.in` 服务获取任何城市的实时天气信息。
 
 ## 工具

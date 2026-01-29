@@ -8,6 +8,9 @@ metadata: {"moltbot":{"requires":{"bins":["clawdhub"]},"install":[{"id":"node","
 
 > [English](SKILL.md)
 
+Moltbot 的技能中心集成。
+
+
 
 # ClawdHub CLI
 

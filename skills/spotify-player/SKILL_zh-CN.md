@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🎵","requires":{"anyBins":["spogo","spotify_pla
 
 > [English](SKILL.md)
 
+控制 Spotify 播放与搜索歌曲。
+
+
 
 # spogo / spotify_player
 

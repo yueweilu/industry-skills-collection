@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🖼️","requires":{"bins":["python3"],"env":["O
 
 > [English](SKILL.md)
 
+使用 DALL-E 生成图像。
+
+
 
 # OpenAI Image Gen
 

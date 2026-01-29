@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📋","requires":{"bins":["jq"],"env":["TRELLO_AP
 
 > [English](SKILL.md)
 
+管理 Trello 看板和卡片。
+
+
 
 # Trello Skill
 
@@ -24,7 +27,7 @@ Manage Trello boards, lists, and cards directly from Moltbot.
    export TRELLO_TOKEN="your-token"
    ```
 
-## Usage
+## 用法
 
 All commands use curl to hit the Trello REST API.
 
@@ -75,7 +78,7 @@ curl -s -X PUT "https://api.trello.com/1/cards/{cardId}?key=$TRELLO_API_KEY&toke
 - The API key and token provide full access to your Trello account - keep them secret!
 - Rate limits: 300 requests per 10 seconds per API key; 100 requests per 10 seconds per token; `/1/members` endpoints are limited to 100 requests per 900 seconds
 
-## Examples
+## 示例s
 
 ```bash
 # Get all boards

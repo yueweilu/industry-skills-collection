@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"🧩","requires":{"anyBins":["claude","codex","op
 
 > [English](SKILL.md)
 
+自主编写和修改代码的智能代理。
+
+
 
 # Coding Agent (bash-first)
 

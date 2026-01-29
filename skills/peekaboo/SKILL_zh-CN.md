@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"👀","os":["darwin"],"requires":{"bins":["peekab
 
 > [English](SKILL.md)
 
+系统监控与进程检视工具。
+
+
 
 # Peekaboo
 
@@ -91,7 +94,7 @@ peekaboo type "Hello" --return
 - Human-ish movement: `--profile human|linear`, `--wpm` (typing)
 - Scroll: `--direction up|down|left|right`, `--amount <ticks>`, `--smooth`
 
-## Examples
+## 示例s
 ### See -> click -> type (most reliable flow)
 ```bash
 peekaboo see --app Safari --window-title "Login" --annotate --path /tmp/see.png

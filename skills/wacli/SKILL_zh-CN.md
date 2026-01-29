@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📱","requires":{"bins":["wacli"]},"install":[{"
 
 > [English](SKILL.md)
 
+WhatsApp 命令行客户端集成。
+
+
 
 # wacli
 

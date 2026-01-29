@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🧲","requires":{"bins":["gifgrep"]},"install":[
 
 > [English](SKILL.md)
 
+搜索并检索 GIF 动图。
+
+
 
 # gifgrep
 

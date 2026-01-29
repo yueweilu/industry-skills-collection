@@ -2,6 +2,9 @@
 
 > [English](SKILL.md)
 
+GitHub 仓库与 Issue 管理工具。
+
+
 此技能允许 AI 通过 GitHub CLI (gh) 直接在命令行管理仓库、Issue 和 Pull Request。
 
 ## 工具

@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"🗣️","os":["darwin","linux","win32"],"require
 
 > [English](SKILL.md)
 
+使用 Sherpa ONNX 进行本地离线语音合成。
+
+
 
 # sherpa-onnx-tts
 
@@ -41,7 +44,7 @@ The wrapper lives in this skill folder. Run it directly, or add the wrapper to P
 export PATH="{baseDir}/bin:$PATH"
 ```
 
-## Usage
+## 用法
 
 ```bash
 {baseDir}/bin/sherpa-onnx-tts -o ./tts.wav "Hello from local TTS."

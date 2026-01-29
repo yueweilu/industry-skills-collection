@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"📞","skillKey":"voice-call","requires":{"config
 
 > [English](SKILL.md)
 
+发起或管理语音通话。
+
+
 
 # Voice Call
 

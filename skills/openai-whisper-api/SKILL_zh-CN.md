@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"☁️","requires":{"bins":["curl"],"env":["OPENA
 
 > [English](SKILL.md)
 
+使用 OpenAI Whisper API 进行转录。
+
+
 
 # OpenAI Whisper API (curl)
 

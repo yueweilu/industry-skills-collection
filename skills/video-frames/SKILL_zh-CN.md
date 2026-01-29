@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🎞️","requires":{"bins":["ffmpeg"]},"install"
 
 > [English](SKILL.md)
 
+从视频中提取帧或图像。
+
+
 
 # Video Frames (ffmpeg)
 

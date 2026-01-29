@@ -7,6 +7,9 @@ name: web-search-duckduckgo
 
 > [English](SKILL.md)
 
+DuckDuckGo 匿名网络搜索。
+
+
 此技能允许 Agent 使用 DuckDuckGo 搜索互联网，无需 API 密钥。
 
 ## 工具

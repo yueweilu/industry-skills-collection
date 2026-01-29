@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🌤️","requires":{"bins":["curl"]}}}
 
 > [English](SKILL.md)
 
+查询天气预报 (wttr.in)。
+
+
 
 # Weather
 

@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📧","requires":{"bins":["himalaya"]},"install":
 
 > [English](SKILL.md)
 
+命令行邮件客户端 (CLI email)。
+
+
 
 # Himalaya Email CLI
 
@@ -25,7 +28,7 @@ Himalaya is a CLI email client that lets you manage emails from the terminal usi
 2. A configuration file at `~/.config/himalaya/config.toml`
 3. IMAP/SMTP credentials configured (password stored securely)
 
-## Configuration Setup
+## 配置 Setup
 
 Run the interactive wizard to set up an account:
 ```bash

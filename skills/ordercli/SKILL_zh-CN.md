@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🛵","requires":{"bins":["ordercli"]},"install":
 
 > [English](SKILL.md)
 
+命令行订单管理系统。
+
+
 
 # ordercli
 

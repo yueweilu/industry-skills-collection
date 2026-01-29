@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📄","requires":{"bins":["nano-pdf"]},"install":
 
 > [English](SKILL.md)
 
+轻量级 PDF 阅读与处理工具。
+
+
 
 # nano-pdf
 

@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📨","os":["darwin"],"requires":{"bins":["imsg"]
 
 > [English](SKILL.md)
 
+发送和接收 iMessage 信息。
+
+
 
 # imsg
 

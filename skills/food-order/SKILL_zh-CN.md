@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🥡","requires":{"bins":["ordercli"]},"install":
 
 > [English](SKILL.md)
 
+自动化订餐流程（示例）。
+
+
 
 # Food order (Foodora via ordercli)
 

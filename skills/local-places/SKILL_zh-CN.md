@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📍","requires":{"bins":["uv"],"env":["GOOGLE_PL
 
 > [English](SKILL.md)
 
+搜索附近的本地地点和服务。
+
+
 
 # 📍 Local Places
 

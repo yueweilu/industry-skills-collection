@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"🧵","os":["darwin","linux"],"requires":{"bins":
 
 > [English](SKILL.md)
 
+管理 Tmux 终端会话。
+
+
 
 # tmux 技能 (Moltbot)
 

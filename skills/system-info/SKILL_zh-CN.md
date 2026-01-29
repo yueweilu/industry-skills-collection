@@ -7,6 +7,9 @@ name: system-info
 
 > [English](SKILL.md)
 
+获取 CPU、内存等系统信息。
+
+
 此技能允许 Agent 检查其运行环境的状态。
 
 ## 工具

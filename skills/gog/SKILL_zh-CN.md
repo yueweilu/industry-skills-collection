@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🎮","requires":{"bins":["gog"]},"install":[{"id
 
 > [English](SKILL.md)
 
+与 GOG.com 游戏平台交互。
+
+
 
 # gog
 

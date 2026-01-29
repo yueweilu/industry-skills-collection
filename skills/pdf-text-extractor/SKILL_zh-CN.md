@@ -2,6 +2,9 @@
 
 > [English](SKILL.md)
 
+从 PDF 文件提取文本。
+
+
 允许 AI 读取本地 PDF 文档的内容。
 
 ## 工具

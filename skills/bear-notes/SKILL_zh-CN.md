@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🐻","os":["darwin"],"requires":{"bins":["grizzl
 
 > [English](SKILL.md)
 
+与 Bear 笔记应用集成。
+
+
 
 # Bear Notes
 
@@ -61,7 +64,7 @@ Common flags:
 - `--json` — Output as JSON (when using callbacks)
 - `--token-file PATH` — Path to Bear API token file
 
-## Configuration
+## 配置
 
 Grizzly reads config from (in priority order):
 1. CLI flags

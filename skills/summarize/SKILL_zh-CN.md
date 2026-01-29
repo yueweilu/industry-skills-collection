@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🧾","requires":{"bins":["summarize"]},"install"
 
 > [English](SKILL.md)
 
+使用 AI 总结长文本或文件。
+
+
 
 # Summarize
 

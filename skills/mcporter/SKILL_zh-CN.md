@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📦","requires":{"bins":["mcporter"]},"install":
 
 > [English](SKILL.md)
 
+Minecraft 服务器管理工具。
+
+
 
 # mcporter
 

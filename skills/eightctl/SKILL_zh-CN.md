@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🎛️","requires":{"bins":["eightctl"]},"instal
 
 > [English](SKILL.md)
 
+控制 8bitdo 手柄或其他输入设备。
+
+
 
 # eightctl
 

@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"📝","os":["darwin"],"requires":{"bins":["memo"]
 
 > [English](SKILL.md)
 
+读取和操作 Apple Notes（备忘录）。
+
+
 
 # Apple Notes CLI
 

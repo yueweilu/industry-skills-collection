@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"♊️","requires":{"bins":["gemini"]},"install":
 
 > [English](SKILL.md)
 
+调用 Google Gemini AI 模型。
+
+
 
 # Gemini CLI
 

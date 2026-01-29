@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🫐","requires":{"bins":["blu"]},"install":[{"id
 
 > [English](SKILL.md)
 
+通过命令行控制蓝牙设备。
+
+
 
 # blucli (blu)
 

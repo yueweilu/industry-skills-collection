@@ -9,6 +9,9 @@ metadata: {"moltbot":{"emoji":"🍌","requires":{"bins":["uv"],"env":["GEMINI_AP
 
 > [English](SKILL.md)
 
+Nano Banana Pro 开发板控制工具。
+
+
 
 # Nano Banana Pro (Gemini 3 Pro Image)
 

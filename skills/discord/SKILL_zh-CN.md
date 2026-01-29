@@ -8,6 +8,9 @@ metadata: {"moltbot":{"emoji":"🎮","requires":{"config":["channels.discord"]}}
 
 > [English](SKILL.md)
 
+发送消息或管理 Discord 频道。
+
+
 
 # Discord Actions
 
@@ -461,7 +464,7 @@ Create, edit, delete, and move channels and categories. Enable via `discord.acti
 - > quotes for referencing
 - Wrap multiple links in `<>` to suppress embeds
 
-### Example transformations
+### 示例 transformations
 
 ❌ Bad:
 ```
