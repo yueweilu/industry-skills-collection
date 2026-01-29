@@ -1,5 +1,7 @@
 # Software Engineering
 
+> [中文](../../zh-cn/software-engineering.md) | [English](software-engineering.md)
+
 A comprehensive list of skills for modern software development.
 
 ## 🛠 Programming Languages

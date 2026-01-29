@@ -1,5 +1,7 @@
 # Industry Skills Collection 📚
 
+> [中文](README_zh-CN.md) | [English](README.md)
+
 > A community-driven collection of essential skills across various industries.
 
 Welcome to the **Industry Skills Collection**! This open-source project aims to build a comprehensive map of skills required for different professions, from Software Engineering to Digital Marketing, Graphic Design, and beyond.
@@ -10,7 +12,7 @@ Our goal is to help beginners understand what they need to learn and to assist p
 
 Browse skills by industry:
 
-- [💻 Software Engineering](skills/software-engineering.md)
+- [💻 Software Engineering](skills/en/software-engineering.md)
 - *(More industries coming soon! Contribute yours!)*
 
 ## 🚀 How to Use
