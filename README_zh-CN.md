@@ -44,6 +44,8 @@ pip install -r requirements.txt
 
 我们欢迎贡献！如果您为 AI Agent 构建了有用的工具，请提交 PR。
 
+请参阅 [贡献指南](CONTRIBUTING_zh-CN.md) 了解详细步骤。
+
 1.  在 `skills/` 中创建一个新文件夹。
 2.  添加您的脚本（例如 `tool.py`）。
 3.  添加符合标准格式的 `SKILL.md`。
