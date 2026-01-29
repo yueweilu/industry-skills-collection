@@ -1,58 +1,33 @@
-# Industry Skills Collection 📚
+# AI Agent Skills Collection 🤖
 
-> [中文](README_zh-CN.md) | [English](README.md)
+> A curated collection of modular skills (tools) designed for AI agents.
 
-> A community-driven collection of essential skills across various industries.
+This repository hosts a set of standardized skills that AI agents (like Large Language Models) can utilize to interact with the real world—fetching data, controlling software, or processing files.
 
-Welcome to the **Industry Skills Collection**! This open-source project aims to build a comprehensive map of skills required for different professions, from Software Engineering to Digital Marketing, Graphic Design, and beyond.
+Each skill is self-contained with its own documentation and executable scripts.
 
-Our goal is to help beginners understand what they need to learn and to assist professionals in identifying gaps in their knowledge.
+## 📂 Available Skills
 
-## 📂 Explore Skills
-
-Browse skills by industry:
-
-- [💻 Software Engineering](skills/en/software-engineering.md)
-- *(More industries coming soon! Contribute yours!)*
+| Skill Name | Description |
+| :--- | :--- |
+| [**weather-lookup**](skills/weather-lookup/SKILL.md) | Retrieve current weather conditions for a specific city. |
 
 ## 🚀 How to Use
 
-Simply browse the `skills/` directory to find the industry you are interested in. Each file contains a categorized list of skills, tools, and concepts relevant to that field.
+Each skill is located in the `skills/` directory and contains a `SKILL.md` file. This file describes:
+1.  **Purpose**: When the AI should use this skill.
+2.  **Tools**: The specific scripts (Python/Node.js) to execute.
+3.  **IO**: Expected input arguments and output JSON format.
 
 ## 🤝 Contributing
 
+We welcome contributions! If you have built a useful tool for AI agents, please submit a PR.
 
-
-We welcome contributions from everyone! Whether you are an expert or a learner, your input is valuable.
-
-
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to add a new industry or update existing skills.
-
-
-
-## 🙏 Acknowledgments & References
-
-
-
-This project is inspired by and references various community resources, including:
-
-
-
-- [roadmap.sh](https://roadmap.sh) - For career path structures.
-
-- [Awesome Lists](https://github.com/sindresorhus/awesome) - For the community-driven collection model.
-
-- Various industry-specific documentation and expert blogs.
-
-
-
-If you believe a specific source should be credited, please open an issue or submit a PR.
-
-
+1.  Create a new folder in `skills/`.
+2.  Add your script (e.g., `tool.py`).
+3.  Add a `SKILL.md` following the standard format.
+4.  Add an `Acknowledgments` section in your `SKILL.md` if adapted from another project.
 
 ## 📄 License
 
-
-
-This project is licensed under the MIT License.
+MIT License
