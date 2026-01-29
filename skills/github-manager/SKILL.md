@@ -3,6 +3,11 @@ name: github-manager
 description: Interact with GitHub repositories, issues, and pull requests using the GitHub CLI (gh).
 ---
 
+# github-manager Skill
+
+> [中文](SKILL_zh-CN.md)
+
+
 # GitHub Manager Skill | GitHub 管理技能
 
 > [English](SKILL.md) | [中文](SKILL_zh-CN.md)

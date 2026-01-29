@@ -3,6 +3,11 @@ name: currency-converter
 description: Convert amounts between different currencies using real-time exchange rates.
 ---
 
+# currency-converter Skill
+
+> [中文](SKILL_zh-CN.md)
+
+
 # Currency Converter Skill | 汇率转换技能
 
 > [English](SKILL.md) | [中文](SKILL_zh-CN.md)

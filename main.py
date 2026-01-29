@@ -19,17 +19,30 @@ def list_skills():
             scripts = glob.glob(os.path.join(item_path, "*.py"))
             main_script = next((s for s in scripts if not s.endswith("__init__.py")), None)
             
-            if main_script:
-                skills.append({
-                    "name": item,
-                    "script": main_script
-                })
+            skills.append({
+                "name": item,
+                "script": main_script,
+                "doc": os.path.join(item_path, "SKILL.md")
+            })
     return sorted(skills, key=lambda x: x['name'])
 
 def run_skill(skill):
-    print(f"\n🚀 Running Skill: {skill['name']}")
+    print(f"\n🚀 Selected Skill: {skill['name']}")
     print("-" * 30)
     
+    if not skill['script']:
+        print("ℹ️  This skill is documentation-based (no executable script detected).")
+        print("   Displaying usage instructions:\n")
+        try:
+            with open(skill['doc'], 'r') as f:
+                print(f.read())
+        except Exception as e:
+            print(f"Error reading doc: {e}")
+        print("-" * 30)
+        input("Press Enter to continue...")
+        return
+
+    # Existing logic for running scripts...
     # Simple argument prompting based on skill name (naive approach)
     args = []
     if skill['name'] == 'weather-lookup':

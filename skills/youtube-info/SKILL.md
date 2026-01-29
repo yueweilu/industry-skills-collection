@@ -3,6 +3,11 @@ name: youtube-info
 description: Retrieve metadata (title, uploader, views) for a given YouTube video URL.
 ---
 
+# youtube-info Skill
+
+> [中文](SKILL_zh-CN.md)
+
+
 # YouTube Info Skill | YouTube 信息技能
 
 > [English](SKILL.md) | [中文](SKILL_zh-CN.md)
