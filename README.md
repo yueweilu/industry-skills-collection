@@ -11,6 +11,9 @@ Each skill is self-contained with its own documentation and executable scripts.
 | Skill Name | Description |
 | :--- | :--- |
 | [**weather-lookup**](skills/weather-lookup/SKILL.md) | Retrieve current weather conditions for a specific city. |
+| [**stock-price**](skills/stock-price/SKILL.md) | Retrieve real-time stock price and market data. |
+| [**web-search-duckduckgo**](skills/web-search-duckduckgo/SKILL.md) | Perform anonymous web searches to find information. |
+| [**system-info**](skills/system-info/SKILL.md) | Check CPU, memory, and disk usage of the host machine. |
 
 ## 🚀 How to Use
 
